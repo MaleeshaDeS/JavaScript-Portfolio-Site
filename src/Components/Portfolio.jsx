@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/bigData_bg.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Big Data";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Data Warehousing and Business Intelligence Project for a Bicycle Rental System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The project entailed building a data warehouse, creating an OLAP Cube, and generating reports to extract valuable insights for business purposes",
+    url: "https://github.com/MaleeshaDeS/DWBI-Bicycle-Rental-System.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Machine Learning Model to Predict Future Stroke Condition in Patient",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An application built using Decision Tree algorithm to predict stroke conditions in patients by entering information about their health and living conditions.",
+    url: "https://github.com/MaleeshaDeS/Stroke-Prediction-Application.git",
   },
   {
-    title: "My Resume Site",
+    title: "IOT Solution to Monitor Temperature and Humidity Changes in the Environment",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Tracks and analyzes temperature and humidity variations in an environment using a network of interconnected sensors. Real-time data collection and transmission to a cloud platform enable continuous monitoring.",
+    url: "https://github.com/MaleeshaDeS/Temperature-Humidity-Monitoring-System.git",
   },
 ];
 
