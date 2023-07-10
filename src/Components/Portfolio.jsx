@@ -48,6 +48,11 @@ const projectList = [
       "Tracks and analyzes temperature and humidity variations in an environment using a network of interconnected sensors. Real-time data collection and transmission to a cloud platform enable continuous monitoring.",
     url: "https://github.com/MaleeshaDeS/Temperature-Humidity-Monitoring-System.git",
   },
+  {
+    title: "SVM Email Classifier",
+    description: "A linear SVM classifier to classify emails into spam and ham.",
+    url: "https://github.com/IT20207854/SVM-Email-Spam-Classifier",
+  },
 ];
 
 const Portfolio = () => {
