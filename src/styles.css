@@ -124,6 +124,22 @@ img.socialIcon {
   width: 30px;
 }
 
-#myHeader {
+#myHeader1 {
+  color: white;
+  font-size: 85px;
+}
+
+#myHeader2 {
   color: white;
 }
+
+#portfolio {
+  background-color: white;
+}
+
+hr {
+  width: 130%;
+  color: white;
+  margin-left: 0;
+}
+

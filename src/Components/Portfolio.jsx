@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "SVM Email Classifier",
     description: "A linear SVM classifier to classify emails into spam and ham.",
-    url: "https://github.com/IT20207854/SVM-Email-Spam-Classifier",
+    url: "https://github.com/MaleeshaDeS/SVM-Email-Spam-Classifier",
   },
 ];
 

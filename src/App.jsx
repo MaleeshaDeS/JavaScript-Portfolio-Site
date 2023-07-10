@@ -27,9 +27,9 @@ const siteProps = {
   name: "Maleesha De Silva",
   title: "Data Science Undergraduate",
   email: "maleeshadesilva21@gmail.com",
-  gitHub: "https://github.com/MaleeshaDeS",
-  linkedIn: "https://www.linkedin.com/in/maleesha-de-silva-37a26a221/",
-  medium: "https://medium.com/@maleeshadesilva21",
+  gitHub: "MaleeshaDeS",
+  linkedIn: "maleesha-de-silva-37a26a221",
+  medium: "maleeshadesilva21",
 };
 
 const primaryColor = "#4E567E";
